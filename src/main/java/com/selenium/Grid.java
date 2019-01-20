@@ -27,7 +27,7 @@ public class Grid {
             cap.setBrowserName("chrome");
             cap.setPlatform(Platform.ANY);
             RemoteWebDriver driver = new RemoteWebDriver(new URL("http://192.168.1.20:4444/wd/hub"), cap);
-            driver.get("http://www.gmail.com");
+            driver.get("http://www.gggggggggmail.com");
 
         }
     }
